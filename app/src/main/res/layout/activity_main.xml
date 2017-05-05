@@ -54,5 +54,12 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="5" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="6" />
     </LinearLayout>
 </android.support.constraint.ConstraintLayout>
